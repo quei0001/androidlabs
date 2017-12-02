@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I\’m a button</string>
+    <string name="ButtonTextLogin">Login</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login_view">Login</string>
+    <string name="editTextPassword">Password</string>
+    <string name="switchX">Enable Something</string>
+    <string name="checkBox1">Check Box</string>
+    <string name="loginName">Login Name</string>
+    <string name="Dialogue">Do you want to finish the activity?</string>string>
+    <string name="Dialogue_Title">Dialogue</string>string>
+    <string name="Dialogue_Positive">"Yes"</string>string>
+    <string name="Dialogue_Negative">"No"</string>string>
+    <string name="radioButton2">Click me</string>
+    <string name="buttonChat">Start Chat</string>string>
+    <string name="sendButton">Send</string>
+    <string name="name1">Name</string>
+
+</resources>

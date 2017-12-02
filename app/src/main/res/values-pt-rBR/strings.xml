@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_message">Olá Mundo!</string>
+    <string name="ButtonText">Botão</string>
+    <string name="ButtonTextLogin">Entrar</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login_view">Usuario</string>
+    <string name="editTextPassword">Senha</string>
+    <string name="switchX">Ative Algo</string>
+    <string name="checkBox1">Caixa de Seleção</string>
+    <string name="loginName">Nome do Usuario</string>
+    <string name="Dialogue">Você quer finalizar a atividade?</string>string>
+    <string name="Dialogue_Title">Dialogo</string>string>
+    <string name="Dialogue_Positive">"Sim"</string>string>
+    <string name="Dialogue_Negative">"Não"</string>string>
+    <string name="radioButton2">Clica em mim</string>
+    <string name="buttonChat">Começar Chat</string>string>
+    <string name="sendButton">Enviar</string>
+    <string name="name1">Nome</string>
+
+</resources>
